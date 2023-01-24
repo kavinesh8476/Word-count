@@ -31,8 +31,7 @@ num_word+=len(word)
 print("number of words ={}".format(num_word)
 ```
 ### OUTPUT:
-
-
+![out](word%20count.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
